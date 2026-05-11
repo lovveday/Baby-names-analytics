@@ -222,7 +222,7 @@ baby-names-analytics/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/baby-names-analytics.git
+git clone https://github.com/lovveday/baby-names-analytics.git
 ```
 
 2. Open `python/pipeline.ipynb` in Jupyter and run all cells to regenerate the cleaned CSV
