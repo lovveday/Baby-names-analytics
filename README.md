@@ -107,7 +107,7 @@ The high-level summary page. At a glance:
 - Total births by year line chart spanning 1880 to present — the 1950s baby boom is clearly visible
 
 ---
-
+![Top Baby Names](Images/Top_baby_names.png)
 ### Page 2 — Top Baby Names
 Side-by-side male and female ranking table, filterable by year. Top 5 for 2024:
 
@@ -122,7 +122,7 @@ Side-by-side male and female ranking table, filterable by year. Top 5 for 2024:
 Includes a gender donut chart — 51.53% male vs 48.47% female births in 2024.
 
 ---
-
+![Baby Name Explorer](Images/baby_name_explorer.png)
 ### Page 3 — Baby Name Explorer
 The core interactive feature. Search any name, filter by gender, and instantly see:
 - Full popularity trend line from 1880 to present
@@ -132,7 +132,7 @@ The core interactive feature. Search any name, filter by gender, and instantly s
 Replicates the SSA website experience directly in Power BI.
 
 ---
-
+![Change in Popularity](Images/change_in_popularity.png)
 ### Page 4 — Change in Popularity
 The most analytically advanced page. Shows which names gained or lost the most births year-over-year with three columns: Change in Births, Sum of Count, and Prev Year Count.
 
@@ -246,7 +246,7 @@ git clone https://github.com/lovveday/baby-names-analytics.git
 ![Overview](Images/Dashboard_overview.png)
 ![Top Baby Names](Images/Top_baby_names.png)
 ![Baby Name Explorer](Images/baby_name_explorer.png)
-![Change in Popularity](Images/change_in_popularity.png)
+![Change in Popularity](Images/change_in_popularity_2020.png)
 
 ---
 
