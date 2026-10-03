@@ -1,7 +1,7 @@
 # 📊 Baby Names Analytics Dashboard (SSA-Inspired)
 **By Osekhuemen Peter-Imoisili**
 
-![Power BI Dashboard](images/Dashboard-overview.png)
+![Power BI Dashboard](images/Dashboard_overview.png)
 
 ---
 
