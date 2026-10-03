@@ -1,7 +1,7 @@
 # 📊 Baby Names Analytics Dashboard (SSA-Inspired)
 **By Osekhuemen Peter-Imoisili**
 
-![Power BI Dashboard](images/Dashboard_overview.png)
+![Power BI Dashboard](Images/Dashboard_overview.png)
 
 ---
 
@@ -243,10 +243,10 @@ git clone https://github.com/lovveday/baby-names-analytics.git
 
 ## 📷 Dashboard Preview
 
-![Overview](images/Dashboard_overview.png)
-![Top Baby Names](images/Top_baby_names.png)
-![Baby Name Explorer](images/baby_name_explorer.png)
-![Change in Popularity](images/change_in_popularity.png)
+![Overview](Images/Dashboard_overview.png)
+![Top Baby Names](Images/Top_baby_names.png)
+![Baby Name Explorer](Images/baby_name_explorer.png)
+![Change in Popularity](Images/change_in_popularity.png)
 
 ---
 
